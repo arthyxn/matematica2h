@@ -90,12 +90,24 @@ p {
 
 .lixeira {
     display: flex;
-    flex-direction: column;
-    background-color: #26e400;
+    flex-direction: row-reverse;
+    background-color: #f7f8f7;
 }
 
 .face {
     width: 120px;
     height: 120px;
     background-color: #feffff;
+}
+
+.espaço {
+    display: flex;
+    flex-direction: row-reverse;
+    background-color: #f7f8f7;
+}
+
+.face {
+    width: 120px;
+    height: 120px;
+    background-color: #feffff; 
 }
