@@ -52,6 +52,20 @@ h3 {
     text-align: center;
 }
 
+.container {
+    width: 100%;
+    overflow: hidden;
+}
+
+img {
+    float:left;
+    margin-right: 20px;
+}
+
+p {
+    margin: 0;
+}
+
 h4 {
     color: #020C12;
     text-align: center;
