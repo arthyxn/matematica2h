@@ -9,7 +9,7 @@
     padding: 0;
 }
 .banner {
-    width: 50%;
+    width: 100%;
     height: 50px;
     background-color: var(--corquadrado);
 }
@@ -26,7 +26,7 @@
     text-align: center;
 }
 .rodape {
-    width: 50%;
+    width: 100%;
     height: 50px;
     background-color: var(--corquadrado);
     text-align: center;
