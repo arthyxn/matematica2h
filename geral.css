@@ -90,12 +90,12 @@ p {
 
 .lixeira {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     background-color: #26e400;
 }
 
 .face {
     width: 120px;
     height: 120px;
-    background-color: #020C12;
+    background-color: #feffff;
 }
