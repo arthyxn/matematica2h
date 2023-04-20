@@ -6,7 +6,7 @@
     --cor_de_fundo_um: #FFFFFF;
     --cor_letra_fundo_escuro: #020C12;
     --corfundo2: #57fadf;
-    --corquadrado: #26e400; 
+    --corquadrado: #00afe4; 
 }
 * {
     margin: 0;
@@ -14,7 +14,7 @@
 }
 .banner {
     width: 100%;
-    height: 100px;
+    height: 50px;
     background-color: var(--corfundo2);
 }
 .lixo {
@@ -31,8 +31,8 @@
 }
 .rodape {
     width: 100%;
-    height: 100px;
-    background-color: var(--corfundo2);
+    height: 50px;
+    background-color: var(--corquadrado);
     text-align: center;
 }
 
@@ -51,6 +51,7 @@ h2 {
     color:#020C12;
     text-align: center;
     font-family:'DM Sans', sans-serif;
+    font-size: medium;
 }
 
 .container {
@@ -96,4 +97,22 @@ p {
     width: 120px;
     height: 120px;
     background-color: #feffff;
+}
+
+button {
+    background-color: aqua;
+}
+
+.container {
+    width: 100%;
+    overflow: hidden;
+}
+
+img {
+    float: right;
+    margin-right: 20px;
+}
+
+p {
+    margin: 0;
 }
