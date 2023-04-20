@@ -1,6 +1,4 @@
-* {
-    font-family: 'Roboto Slab', serif;
-}
+
 
 :root{
     --cor_de_fundo_um: #FFFFFF;
@@ -54,20 +52,6 @@ h2 {
     font-size: medium;
 }
 
-.container {
-    width: 100%;
-    overflow: hidden;
-}
-
-img {
-    float:left;
-    margin-right: 20px;
-}
-
-p {
-    margin: 0;
-}
-
 h3 {
     color: #020C12;
     text-align: center;
@@ -103,6 +87,7 @@ button {
     height: 100px;
     background-color: #FFFFFF;
 }
+
 .container {
     width: 100%;
     overflow: hidden;
