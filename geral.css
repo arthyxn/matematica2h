@@ -88,3 +88,8 @@ img {
 p {
     margin: 0;
 }
+
+. reciclo {
+    display: flex;
+    flex-direction: column;
+}
