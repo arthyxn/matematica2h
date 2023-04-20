@@ -20,7 +20,6 @@
 .lixo {
     height:90px;
     width: 8%;
-    text-align: center;
 }
 
 .conteudo{
@@ -89,8 +88,8 @@ p {
     margin: 0;
 }
 
-.lixeiras {
-    height:90px;
-    width: 8%;
-    text-align: center;
+.lixeira {
+    display: flex;
+    flex-direction: row;
+    background-color: #26e400;
 }
