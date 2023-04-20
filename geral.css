@@ -103,16 +103,14 @@ button {
     height: 100px;
     background-color: #FFFFFF;
 }
-container {
+.container {
     width: 100%;
     overflow: hidden;
 }
-
 img {
     float:left;
     margin-right: 20px;
 }
-
 p {
     margin: 0;
 }
