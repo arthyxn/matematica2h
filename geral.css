@@ -103,11 +103,3 @@ button {
     height: 100px;
     background-color: #FFFFFF;
 }
-
-.right {
-    float: right;
-    margin-right: 100px;
-}
-.container {
-    overflow: hidden;
-}
