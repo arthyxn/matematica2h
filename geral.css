@@ -20,7 +20,7 @@
 .lixo {
     height:90px;
     width: 8%;
-
+    text-align: center;
 }
 
 .conteudo{
@@ -87,4 +87,10 @@ img {
 
 p {
     margin: 0;
+}
+
+.lixeiras {
+    height:90px;
+    width: 8%;
+    text-align: center;
 }
