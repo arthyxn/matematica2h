@@ -9,8 +9,8 @@
     padding: 0;
 }
 .banner {
-    width: 100%;
-    height: 100px;
+    width: 50%;
+    height: 50px;
     background-color: var(--corquadrado);
 }
 .lixo {
@@ -26,9 +26,9 @@
     text-align: center;
 }
 .rodape {
-    width: 100%;
+    width: 50%;
     height: 50px;
-    background-color: var(--corfundo2);
+    background-color: var(--corquadrado);
     text-align: center;
 }
 
@@ -44,12 +44,10 @@ h1 {
 
 h2 {
     color:#020C12;
-    font-size:smaller;
     text-align: center;
 }
 
 h3 {
     color:#020C12;
-    font-size:smaller;
     text-align: center;
 }
