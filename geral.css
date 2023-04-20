@@ -93,3 +93,9 @@ p {
     flex-direction: row;
     background-color: #26e400;
 }
+
+.face {
+    width: 120px;
+    height: 120px;
+    background-color: #020C12;
+}
