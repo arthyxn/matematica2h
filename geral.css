@@ -104,9 +104,9 @@ button {
     background-color: #FFFFFF;
 }
 
-.left {
+.right {
     float: right;
-    margin-right: 20px;
+    margin-right: 100px;
 }
 .container {
     overflow: hidden;
