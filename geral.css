@@ -43,6 +43,7 @@ h1 {
    color: #020c12;
    font-size: x-large;
    text-align: center;
+   font-family:'DM Sans', sans-serif;;
 }
 
 h2 {
@@ -98,16 +99,4 @@ p {
     width: 120px;
     height: 120px;
     background-color: #feffff;
-}
-
-.espaço {
-    display: flex;
-    flex-direction: row-reverse;
-    background-color: #f7f8f7;
-}
-
-.face {
-    width: 120px;
-    height: 120px;
-    background-color: #feffff; 
 }
